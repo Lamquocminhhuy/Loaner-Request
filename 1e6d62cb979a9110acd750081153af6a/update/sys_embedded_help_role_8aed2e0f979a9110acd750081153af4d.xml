@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_855247_loaner_re.loaner_request_user" name="x_855247_loaner_re.loaner_request_user">ceed2e0f979a9110acd750081153af4b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>fpt_hla_adm</sys_created_by>
+        <sys_created_on>2022-10-07 08:37:05</sys_created_on>
+        <sys_id>8aed2e0f979a9110acd750081153af4d</sys_id>
+        <sys_name>ceed2e0f979a9110acd750081153af4b</sys_name>
+        <sys_package display_value="Loaner Request" source="x_855247_loaner_re">1e6d62cb979a9110acd750081153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">1e6d62cb979a9110acd750081153af6a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8aed2e0f979a9110acd750081153af4d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

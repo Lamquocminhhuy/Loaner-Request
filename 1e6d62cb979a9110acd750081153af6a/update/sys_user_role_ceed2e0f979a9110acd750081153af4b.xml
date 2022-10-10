@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_855247_loaner_re.loaner_request_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_855247_loaner_re.loaner_request_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>fpt_hla_adm</sys_created_by>
+        <sys_created_on>2022-10-07 08:37:05</sys_created_on>
+        <sys_id>ceed2e0f979a9110acd750081153af4b</sys_id>
+        <sys_name>x_855247_loaner_re.loaner_request_user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_855247_loaner_re">1e6d62cb979a9110acd750081153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">1e6d62cb979a9110acd750081153af6a</sys_scope>
+        <sys_update_name>sys_user_role_ceed2e0f979a9110acd750081153af4b</sys_update_name>
+    </sys_user_role>
+</record_update>
